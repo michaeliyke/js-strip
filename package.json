@@ -1,0 +1,23 @@
+{
+  "name": "js-strip",
+  "version": "1.0.0",
+  "description": "Quickily strip off comments and probabbly empty lines from a JavaScript file",
+  "main": "js-strip.js",
+  "scripts": {
+    "start": "nodemon js-strip && mongod",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeliyke/js-strip.git"
+  },
+  "keywords": [
+    "Js-Strip"
+  ],
+  "author": "Michael C. Iyke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaeliyke/js-strip/issues"
+  },
+  "homepage": "https://github.com/michaeliyke/js-strip#readme"
+}
